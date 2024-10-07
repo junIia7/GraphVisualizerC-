@@ -1,0 +1,39 @@
+﻿<Page x:Class="WpfApp1.Info"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1000"
+      Title="Info">
+    <Page.Resources>
+        <Style x:Key="EasyStyle3" TargetType="Button">
+            <Setter Property="Background" Value="LightBlue"/>
+            <Setter Property="Foreground" Value="Brown"/>
+            <Setter Property="BorderBrush" Value="Black"/>
+            <Setter Property="BorderThickness" Value="1.5"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="100">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+    <StackPanel Background="LightYellow">
+        <TextBlock HorizontalAlignment="Right" FontSize="30" TextWrapping="Wrap" FontFamily="Comic Sans MS" Margin="0,10,10,-10">
+            Добро пожаловать в приложение по построению графов!
+            Для создания графа нужно ввести его список смежности, который станет доступен после нажатия кнопки "Начать".
+            Чтобы добавить новую вершину нажмите "Добавить вершину", чтобы добавить/удалить смежную вершину - нажмите 
+            "Добавить смежную"/"Удалить смежную" у соответствующей вершины, чтобы удалить вершину и все ее смежные - нажмите
+            "Удалить вершину".
+            Вершины можно перетаскивать с места на место - для этого нужно нажать мышью на вершину и перенести ее на новое место.
+        </TextBlock>
+        <Button Content="Назад" Style ="{StaticResource EasyStyle3}" Width="140" Height="140" Margin="0 5 0 0" Click="GoBack" MouseEnter="OnMouse" MouseLeave="OffMouse"/>
+    </StackPanel>
+</Page>

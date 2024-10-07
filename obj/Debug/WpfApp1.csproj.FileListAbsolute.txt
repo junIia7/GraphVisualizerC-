@@ -1,0 +1,46 @@
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\cur_such\WpfApp1\obj\Debug\Graph.g.cs
+D:\cur_such\WpfApp1\obj\Debug\InpData.g.cs
+D:\cur_such\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\cur_such\WpfApp1\obj\Debug\App.g.cs
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\cur_such\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\cur_such\WpfApp1\bin\Debug\WpfApp1.exe
+D:\cur_such\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\cur_such\WpfApp1\obj\Debug\MainMenu.g.cs
+D:\cur_such\WpfApp1\obj\Debug\Graph.baml
+D:\cur_such\WpfApp1\obj\Debug\InpData.baml
+D:\cur_such\WpfApp1\obj\Debug\MainMenu.baml
+D:\cur_such\WpfApp1\obj\Debug\MainWindow.baml
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1.exe
+D:\cur_such\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\cur_such\WpfApp1\obj\Debug\Info.g.cs
+D:\cur_such\WpfApp1\obj\Debug\Info.baml
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\Graph.g.cs
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\Info.g.cs
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\InpData.g.cs
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\MainMenu.g.cs
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\App.g.cs
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\Graph.baml
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\Info.baml
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\InpData.baml
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\MainMenu.baml
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\MainWindow.baml
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Уник\Третий сем\Курсач\cur_such\WpfApp1\obj\Debug\WpfApp1.pdb

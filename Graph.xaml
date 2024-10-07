@@ -1,0 +1,33 @@
+﻿<Page x:Class="WpfApp1.Graph"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1000"
+      Title="Graph">
+    <Page.Resources>
+    <Style x:Key="EasyStyle2" TargetType="Button">
+        <Setter Property="Background" Value="LightBlue"/>
+        <Setter Property="Foreground" Value="Brown"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="BorderThickness" Value="1.5"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="100">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    </Page.Resources>
+    <Canvas x:Name="BossCanvas" Background="LightYellow">
+        <Canvas x:Name="mainCanvas" Background="LightYellow" Width="1000" Height="600" MouseLeftButtonDown="OnMouseLeftButtonDown" MouseMove="OnMouseMove" MouseLeftButtonUp="OnMouseLeftButtonUp">
+        </Canvas>
+        <Button Style="{StaticResource EasyStyle2}" Content="Назад к построению" Canvas.Left="10" Canvas.Top="10" Panel.ZIndex="4" Height="40" Width="150" Click="BackToInp" MouseEnter="OnMouse" MouseLeave="OffMouse"/>
+    </Canvas>
+</Page>
